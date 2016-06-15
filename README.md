@@ -2,7 +2,7 @@
 <p>*Everyone needs <b>logic</b>.</p>
 <ul>
   <h6>Projects</h6>    
-<ol>Achilles</ol> <li>was one of the demigods and the son of Thetis, a minor sea-goddess and Peleus, the king of Myrmidons</li>
+<span><ol>Achilles</ol> <li>was one of the demigods and the son of Thetis, a minor sea-goddess and Peleus, the king of Myrmidons</li></span>
 <ol>Aeacus</ol> <li>was one of the demigods and the son of a son of Zeus and Aegina who was the daughter of a river god.  He was the father of Telamon and Peleus and grandfather of Ajax and Achilles</li>
 <ol>Aeneas</ol> <li>was one of the demigods and the son of the goddess Aphrodite and Prince Anchises</li>
 <ol>Amphion</ol> <li>was one of the demigods and a son of Zeus and Antiope</li>
