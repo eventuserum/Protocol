@@ -2,24 +2,24 @@
 <p>*Everyone needs <b>logic</b>.</p>
 <ul>
   <h6>Projects</h6>    
-    1. <ol>Achilles</ol>
-    2. <ol>Aeacus</ol>
-    3. <ol>Aeneas</ol>
-    4. <ol>Amphion</ol>
-    5. <ol>Arcas</ol>
-    6. <ol>Clymene</ol>
-    7. <ol>Dardanus</ol>
-    8. <ol>Epaphus</ol>
-    9. <ol>Harmonia</ol>
-    10. <ol>Helen of Troy</ol>
-    11. <ol>Hercules (Heracles in Greek)</ol>
-    12. <ol>Iasus</ol>
-    13. <ol>Memnon</ol>
-    14. <ol>Orion</ol>
-    15. <ol>Orpheus</ol>
-    16. <ol>Perseus</ol>
-    17. <ol>Pollux</ol>
-    18. <ol>Theseus</ol>
-    19. <ol>Tityos</ol>
-    20. <ol>Zethes</ol>
+    1. Achilles
+    2. Aeacus
+    3. Aeneas
+    4. Amphion
+    5. Arcas
+    6. Clymene
+    7. Dardanus
+    8. Epaphus
+    9. Harmonia
+    10. Helen of Troy
+    11. Hercules (Heracles in Greek)
+    12. Iasus
+    13. Memnon
+    14. Orion
+    15. Orpheus
+    16. Perseus
+    17. Pollux
+    18. Theseus
+    19. Tityos
+    20. Zethes
 </ul>
